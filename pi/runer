@@ -1,0 +1,3 @@
+g++ pi_calculator.cpp -o pi_calculator -O2
+g++ pi_fast.cpp -o pi_fast -O3 -lgmp -lgmpxx
+
