@@ -20,7 +20,7 @@ int main() {
 
   // Print attribute values
   cout << myObj.ID << "\n"<< endl;
-  cout << myObj.myString  << "\n"<< endl;
+  cout << myObj.name  << "\n"<< endl;
   cout << myObj.family << endl;
   return 0;
 }
